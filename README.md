@@ -205,4 +205,4 @@ def crack_xor_flag(xor_hex, flag_prefix="THM{", flag_suffix="}"):
 ---
 
 > **Keep this as your XOR-CTF decryption playbook. Don’t just brute-force, look for patterns, and you’ll always crack it faster! 🚩**
-<c><p><a href="https://jull3.se">Jull3.Se</a></p></c>
+<p><a href="https://jull3.se">Jull3.Se</a></p>
