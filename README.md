@@ -1,7 +1,7 @@
 # TryHackMe---W1seGuy-CTF
 [![Solved](https://img.shields.io/badge/Solved%20By-Jull3Hax0r-blue?style=flat-square&logo=gnu-bash)](https://tryhackme.com/p/Jull3)
 [![TryHackMe Room](https://img.shields.io/badge/TryHackMe-Chill%20Hack-success?style=flat-square&logo=tryhackme)](https://tryhackme.com/room/w1seguy)
-XOR crypto challenge 
+
 # 🧙‍♂️ TryHackMe: W1seGuy – XOR CTF Writeup
 
 **Room:** [W1seGuy](https://tryhackme.com/room/w1seguy)  
